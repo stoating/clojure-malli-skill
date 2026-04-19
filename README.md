@@ -28,7 +28,7 @@ Skills are instructions loaded into an AI agent's context. Before installing:
 
 ```
 /plugin marketplace add stoating/clojure-malli-skill
-/plugin install clojure-malli@clojure-malli-skill
+/plugin install malli@clojure-malli-skill
 ```
 
 Invoke it with:
@@ -47,7 +47,7 @@ Update later:
 
 ```
 /plugin marketplace add stoating/plugins
-/plugin install clojure-malli@stoating
+/plugin install malli@stoating
 ```
 
 ### C) Claude Code (manual copy)
