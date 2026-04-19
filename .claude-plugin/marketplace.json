@@ -1,0 +1,17 @@
+{
+  "name": "clojure-malli-skill",
+  "metadata": {
+    "description": "Clojure Malli skill set for AI coding agents - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-malli",
+      "source": "./",
+      "description": "Clojure Malli skill - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage.",
+      "version": "0.1.0"
+    }
+  ]
+}

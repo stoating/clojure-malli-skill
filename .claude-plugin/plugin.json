@@ -1,0 +1,6 @@
+{
+  "name": "clojure-malli",
+  "description": "Clojure Malli skill - data-driven schemas, validation, explain/humanize, coercion, transformers, generators, function schemas, registries, JSON Schema, Swagger, and CLJS usage.",
+  "version": "0.1.0",
+  "skills": "./"
+}
